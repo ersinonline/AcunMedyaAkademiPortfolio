@@ -1,0 +1,58 @@
+# Visual Studio Cache Files
+.vs/
+
+# User-Specific Files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Build Results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.log
+*.obj
+
+# Web Files
+*.css.map
+*.js.map
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Backup & Hidden Files
+*.bak
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
+
+# IDE-Specific Files
+*.ideworkspace
+.idea/
+*.code-workspace
+
+# Database Files
+*.db
+*.db-shm
+*.db-wal
+
+# Publish Output
+publish/
+out/
+
+# Other Temporary Files
+*.log
+*.vsidx
+*.backup

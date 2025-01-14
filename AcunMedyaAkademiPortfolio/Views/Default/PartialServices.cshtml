@@ -1,0 +1,45 @@
+﻿@model List<AcunMedyaAkademiPortfolio.Models.TblService>
+<section class="ftco-section" id="services-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+                <span class="subheading">I am grat at</span>
+                <h2 class="mb-4">We do awesome services for our clients</h2>
+                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            </div>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-3">
+                    <div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+                        <div class="icon d-flex align-items-center justify-content-center"><span class="@item.IconUrl"></span></div>
+                        <div class="media-body">
+                            <h3 class="heading mb-3">@item.Title</h3>
+                            <p>@item.Description</p>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-3">
+                    <div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+                        <div class="icon d-flex align-items-center justify-content-center"><span class="@item.IconUrl"></span></div>
+                        <div class="media-body">
+                            <h3 class="heading mb-3">@item.Title</h3>
+                            <p>@item.Description</p>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+
+    </div>
+</section>
