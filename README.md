@@ -1,14 +1,19 @@
 # Kişisel Portfolyom
 
 Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergileyebileceği Kişisel Portfolyo Sitesi olarak tasarlanmıştır. Potansiyel müşteriler veya iş ortakları ile etkili bir şekilde iletişim kurmayı hedefleyen bu site, modern tasarım ve kullanıcı dostu bir yapı sunmaktadır.
-📌 Site Özellikleri:
+
+## 📌 Site Özellikleri:
 
 🛠️ Projeler: Tamamlanan projelerinizi detaylarıyla sergileyebileceğiniz bir alan.
 
 🛠️ Servisler: Sağladığınız hizmetlerin profesyonel bir şekilde tanıtımı.
+
 🧑‍💼 Hakkımda: Kendinizi ve kariyer yolculuğunuzu tanıttığınız bir bölüm.
+
 🌟 Referanslar: Çalıştığınız kişilerden veya müşterilerden gelen referansların gösterimi.
+
 🧩 Yetenekler: Sahip olduğunuz teknik ve profesyonel yeteneklerin listesi.
+
 🔧 Kullanılan Teknolojiler: Projelerinizde kullandığınız yazılım ve araçların detayları.
 
 
