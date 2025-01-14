@@ -53,4 +53,4 @@ Bu site, kullanıcıların kendi verilerini kolayca yönetebileceği bir admin p
 
 ![Ekran görüntüsü 2025-01-14 223306](https://github.com/user-attachments/assets/370f71b6-60d4-4ebc-be1c-46b86df948ba)
 
-![Ekran görüntüsü 2025-01-14 223246](https://github.com/user-attachments/assets/b9b5466f-0d9f-4c33-a3e7-fdcd1b4c7081)
+![Ekran görüntüsü 2025-01-14 232015](https://github.com/user-attachments/assets/1f070df9-20a2-408a-9def-0dc4ea77bc8d)
