@@ -17,16 +17,23 @@ Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergi
 🔧 Kullanılan Teknolojiler: Projelerinizde kullandığınız yazılım ve araçların detayları.
 
 
-🛠️ Kullanılan Teknolojiler:
+## 🛠️ Kullanılan Teknolojiler:
+
 🖥️ .NET MVC Framework: Projenin temel yapı taşını oluşturan güçlü bir framework.
+
 💾 Microsoft SQL Server: Veritabanı yönetimi için kullanılmıştır.
+
 🌐 HTML: Sayfa yapısını oluşturan temel web dili.
+
 🎨 CSS: Modern ve estetik bir tasarım için.
+
 📦 Bootstrap: Responsive tasarım ve hazır bileşenler için.
+
 ⚙️ JavaScript: Dinamik ve etkileşimli özellikler için kullanılmıştır.
 
 
-🎯 Proje Amacı:
+## 🎯 Proje Amacı:
+
 Bu site, kullanıcıların kendi verilerini kolayca yönetebileceği bir admin paneli sunar. Böylece, herhangi bir teknik destek almadan içeriklerin güncellenmesi mümkün hale gelir. Site, hem bireylerin profesyonel kimliklerini öne çıkarmalarını hem de müşterileriyle daha etkili bir iletişim kurmalarını sağlar.
 
 
