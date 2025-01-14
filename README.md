@@ -2,6 +2,7 @@
 
 Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergileyebileceği Kişisel Portfolyo Sitesi olarak tasarlanmıştır. Potansiyel müşteriler veya iş ortakları ile etkili bir şekilde iletişim kurmayı hedefleyen bu site, modern tasarım ve kullanıcı dostu bir yapı sunmaktadır.
 
+
 ## 📌 Site Özellikleri:
 
 🛠️ Projeler: Tamamlanan projelerinizi detaylarıyla sergileyebileceğiniz bir alan.
@@ -15,6 +16,7 @@ Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergi
 🧩 Yetenekler: Sahip olduğunuz teknik ve profesyonel yeteneklerin listesi.
 
 🔧 Kullanılan Teknolojiler: Projelerinizde kullandığınız yazılım ve araçların detayları.
+
 
 
 ## 🛠️ Kullanılan Teknolojiler:
@@ -32,6 +34,7 @@ Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergi
 ⚙️ JavaScript: Dinamik ve etkileşimli özellikler için kullanılmıştır.
 
 
+
 ## 🎯 Proje Amacı:
 
 Bu site, kullanıcıların kendi verilerini kolayca yönetebileceği bir admin paneli sunar. Böylece, herhangi bir teknik destek almadan içeriklerin güncellenmesi mümkün hale gelir. Site, hem bireylerin profesyonel kimliklerini öne çıkarmalarını hem de müşterileriyle daha etkili bir iletişim kurmalarını sağlar.
@@ -44,6 +47,7 @@ Bu site, kullanıcıların kendi verilerini kolayca yönetebileceği bir admin p
 ![Ekran görüntüsü 2025-01-14 223107](https://github.com/user-attachments/assets/ded13cf9-1ae6-4bcb-aea0-02176611f9d2)
 
 ![Ekran görüntüsü 2025-01-14 223122](https://github.com/user-attachments/assets/945f573c-68db-4a35-8bee-5faf2593fa85)
+
 
 ## Admin Panelim
 
