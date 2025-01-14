@@ -51,9 +51,8 @@ Bu site, kullanıcıların kendi verilerini kolayca yönetebileceği bir admin p
 
 ## Admin Panelim
 
-![Ekran görüntüsü 2025-01-14 232830](https://github.com/user-attachments/assets/778175a0-b978-43b1-9b61-ff48dcd4d6cf)
+![Ekran görüntüsü 2025-01-14 232743](https://github.com/user-attachments/assets/59aa9a70-deb1-42b9-836a-739d04d1753b)
 
 ![Ekran görüntüsü 2025-01-14 232800](https://github.com/user-attachments/assets/6d1928d6-941f-4699-b915-f5273d10000b)
 
-![Ekran görüntüsü 2025-01-14 232743](https://github.com/user-attachments/assets/59aa9a70-deb1-42b9-836a-739d04d1753b)
-
+![Ekran görüntüsü 2025-01-14 232830](https://github.com/user-attachments/assets/778175a0-b978-43b1-9b61-ff48dcd4d6cf)
