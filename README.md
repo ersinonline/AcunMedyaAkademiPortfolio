@@ -4,6 +4,7 @@ Bu proje, bir bireyin yeteneklerini, geçmiş deneyimlerini ve projelerini sergi
 📌 Site Özellikleri:
 
 🛠️ Projeler: Tamamlanan projelerinizi detaylarıyla sergileyebileceğiniz bir alan.
+
 🛠️ Servisler: Sağladığınız hizmetlerin profesyonel bir şekilde tanıtımı.
 🧑‍💼 Hakkımda: Kendinizi ve kariyer yolculuğunuzu tanıttığınız bir bölüm.
 🌟 Referanslar: Çalıştığınız kişilerden veya müşterilerden gelen referansların gösterimi.
